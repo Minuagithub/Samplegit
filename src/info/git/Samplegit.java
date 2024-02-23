@@ -7,9 +7,15 @@ public class Samplegit {
 
 	}
 	
+
+	private void Aruncode() {
+		System.out.println("Jones code");
+	}
+	
 	private void saanvicode() {
 		
 		System.out.println("Saanvi's code");
+
 
 	}
 
